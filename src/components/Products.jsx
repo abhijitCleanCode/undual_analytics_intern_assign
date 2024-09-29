@@ -183,7 +183,7 @@ const Products = () => {
               type: 'spring',
               stiffness: 300,
               damping: 20,
-              delay: index * 0.1,
+              delay: 0.5,
             }}
           >
             <div className='flex justify-center items-center w-full h-[230px] md:h-[350px] relative'>
